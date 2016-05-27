@@ -1,7 +1,7 @@
 # multithesaurus
 Access a world of free synonym knowledge [from one page](http://monolithpl.github.io/multithesaurus/)
 
-![screenshot](http://monolithpl.github.io/multithesaurus/logo.png)
+![screenshot](http://monolithpl.github.io/multithesaurus/logo.png  "Logo Title Text 1")
 ### features
 - instantly search several word sources via public APIs, including:
   * bighugelabs thesaurus
