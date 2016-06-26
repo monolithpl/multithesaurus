@@ -17,3 +17,7 @@ Access a world of free synonym knowledge [from one page](http://monolithpl.githu
 
 ### demo
 [check it out here](http://monolithpl.github.io/multithesaurus/)
+
+MIT License
+
+Copyright 2016 Wiktor Jakubczyc
